@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.12.23)  25 DEC 2024 17:12
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.12.24)  25 DEC 2024 18:48
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -7,9 +7,9 @@ entering extended mode
 (./train.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
-(/usr/local/texlive/2024/texmf-dist/tex/latex/base/article.cls
+(f:/texlive/2024/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
-(/usr/local/texlive/2024/texmf-dist/tex/latex/base/size10.clo
+(f:/texlive/2024/texmf-dist/tex/latex/base/size10.clo
 File: size10.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count184
@@ -23,9 +23,9 @@ File: size10.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
 \abovecaptionskip=\skip48
 \belowcaptionskip=\skip49
 \bibindent=\dimen140
-) (/usr/local/texlive/2024/texmf-dist/tex/latex/ctex/ctex.sty (/usr/local/texlive/2024/texmf-dist/tex/latex/l3kernel/expl3.sty
+) (f:/texlive/2024/texmf-dist/tex/latex/ctex/ctex.sty (f:/texlive/2024/texmf-dist/tex/latex/l3kernel/expl3.sty
 Package: expl3 2024-02-20 L3 programming layer (loader) 
- (/usr/local/texlive/2024/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
+ (f:/texlive/2024/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
 File: l3backend-xetex.def 2024-02-20 L3 backend support: XeTeX
 \g__graphics_track_int=\count192
 \l__pdf_internal_box=\box51
@@ -34,13 +34,13 @@ File: l3backend-xetex.def 2024-02-20 L3 backend support: XeTeX
 \g__pdf_backend_link_int=\count195
 ))
 Package: ctex 2022/07/14 v2.5.10 Chinese adapter in LaTeX (CTEX)
- (/usr/local/texlive/2024/texmf-dist/tex/latex/ctex/ctexhook.sty
+ (f:/texlive/2024/texmf-dist/tex/latex/ctex/ctexhook.sty
 Package: ctexhook 2022/07/14 v2.5.10 Document and package hooks (CTEX)
-) (/usr/local/texlive/2024/texmf-dist/tex/latex/ctex/ctexpatch.sty
+) (f:/texlive/2024/texmf-dist/tex/latex/ctex/ctexpatch.sty
 Package: ctexpatch 2022/07/14 v2.5.10 Patching commands (CTEX)
-) (/usr/local/texlive/2024/texmf-dist/tex/latex/base/fix-cm.sty
+) (f:/texlive/2024/texmf-dist/tex/latex/base/fix-cm.sty
 Package: fix-cm 2020/11/24 v1.1t fixes to LaTeX
- (/usr/local/texlive/2024/texmf-dist/tex/latex/base/ts1enc.def
+ (f:/texlive/2024/texmf-dist/tex/latex/base/ts1enc.def
 File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding TS1 on input line 47.
 ))
@@ -49,13 +49,13 @@ LaTeX Font Info:    Redeclaring font encoding TS1 on input line 47.
 \l__ctex_tmp_dim=\dimen141
 \g__ctex_section_depth_int=\count197
 \g__ctex_font_size_int=\count198
- (/usr/local/texlive/2024/texmf-dist/tex/latex/ctex/config/ctexopts.cfg
+ (f:/texlive/2024/texmf-dist/tex/latex/ctex/config/ctexopts.cfg
 File: ctexopts.cfg 2022/07/14 v2.5.10 Option configuration file (CTEX)
-) (/usr/local/texlive/2024/texmf-dist/tex/latex/ctex/engine/ctex-engine-xetex.def
+) (f:/texlive/2024/texmf-dist/tex/latex/ctex/engine/ctex-engine-xetex.def
 File: ctex-engine-xetex.def 2022/07/14 v2.5.10 XeLaTeX adapter (CTEX)
- (/usr/local/texlive/2024/texmf-dist/tex/xelatex/xecjk/xeCJK.sty
+ (f:/texlive/2024/texmf-dist/tex/xelatex/xecjk/xeCJK.sty
 Package: xeCJK 2022/08/05 v3.9.1 Typesetting CJK scripts with XeLaTeX
- (/usr/local/texlive/2024/texmf-dist/tex/latex/l3packages/xtemplate/xtemplate.sty (/usr/local/texlive/2024/texmf-dist/tex/latex/l3packages/xtemplate/xtemplate-2023-10-10.sty
+ (f:/texlive/2024/texmf-dist/tex/latex/l3packages/xtemplate/xtemplate.sty (f:/texlive/2024/texmf-dist/tex/latex/l3packages/xtemplate/xtemplate-2023-10-10.sty
 Package: xtemplate 2023-10-10 L3 Experimental prototype document functions
 \l__xtemplate_tmp_dim=\dimen142
 \l__xtemplate_tmp_int=\count199
@@ -122,11 +122,11 @@ Package xtemplate Info: Declaring object type 'xeCJK/punctuation' taking 0
 \g__xeCJK_fam_allocation_int=\count276
 \l__xeCJK_verb_case_int=\count277
 \l__xeCJK_verb_exspace_skip=\skip57
- (/usr/local/texlive/2024/texmf-dist/tex/latex/fontspec/fontspec.sty (/usr/local/texlive/2024/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+ (f:/texlive/2024/texmf-dist/tex/latex/fontspec/fontspec.sty (f:/texlive/2024/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
 Package: xparse 2024-02-18 L3 Experimental document command parser
 )
 Package: fontspec 2024/02/13 v2.9a Font selection for XeLaTeX and LuaLaTeX
- (/usr/local/texlive/2024/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+ (f:/texlive/2024/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
 Package: fontspec-xetex 2024/02/13 v2.9a Font selection for XeLaTeX and LuaLaTeX
 \l__fontspec_script_int=\count278
 \l__fontspec_language_int=\count279
@@ -142,69 +142,62 @@ Package: fontspec-xetex 2024/02/13 v2.9a Font selection for XeLaTeX and LuaLaTeX
 \l__fontspec_tmpa_dim=\dimen170
 \l__fontspec_tmpb_dim=\dimen171
 \l__fontspec_tmpc_dim=\dimen172
- (/usr/local/texlive/2024/texmf-dist/tex/latex/base/fontenc.sty
+ (f:/texlive/2024/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
-) (/usr/local/texlive/2024/texmf-dist/tex/latex/fontspec/fontspec.cfg))) (/usr/local/texlive/2024/texmf-dist/tex/xelatex/xecjk/xeCJK.cfg
+) (f:/texlive/2024/texmf-dist/tex/latex/fontspec/fontspec.cfg))) (f:/texlive/2024/texmf-dist/tex/xelatex/xecjk/xeCJK.cfg
 File: xeCJK.cfg 2022/08/05 v3.9.1 Configuration file for xeCJK package
 ))
 \ccwd=\dimen173
 \l__ctex_ccglue_skip=\skip58
 )
 \l__ctex_ziju_dim=\dimen174
- (/usr/local/texlive/2024/texmf-dist/tex/latex/zhnumber/zhnumber.sty
+ (f:/texlive/2024/texmf-dist/tex/latex/zhnumber/zhnumber.sty
 Package: zhnumber 2022/07/14 v3.0 Typesetting numbers with Chinese glyphs
 \l__zhnum_scale_int=\count289
 \l__zhnum_tmp_int=\count290
- (/usr/local/texlive/2024/texmf-dist/tex/latex/zhnumber/zhnumber-utf8.cfg
+ (f:/texlive/2024/texmf-dist/tex/latex/zhnumber/zhnumber-utf8.cfg
 File: zhnumber-utf8.cfg 2022/07/14 v3.0 Chinese numerals with UTF8 encoding
-)) (/usr/local/texlive/2024/texmf-dist/tex/latex/ctex/scheme/ctex-scheme-chinese.def
+)) (f:/texlive/2024/texmf-dist/tex/latex/ctex/scheme/ctex-scheme-chinese.def
 File: ctex-scheme-chinese.def 2022/07/14 v2.5.10 Chinese scheme for generic (CTEX)
- (/usr/local/texlive/2024/texmf-dist/tex/latex/ctex/config/ctex-name-utf8.cfg
+ (f:/texlive/2024/texmf-dist/tex/latex/ctex/config/ctex-name-utf8.cfg
 File: ctex-name-utf8.cfg 2022/07/14 v2.5.10 Caption with encoding UTF-8 (CTEX)
-)) (/usr/local/texlive/2024/texmf-dist/tex/latex/tools/indentfirst.sty
+)) (f:/texlive/2024/texmf-dist/tex/latex/tools/indentfirst.sty
 Package: indentfirst 2023/07/02 v1.03 Indent first paragraph (DPC)
-) (/usr/local/texlive/2024/texmf-dist/tex/latex/ctex/ctex-c5size.clo
+) (f:/texlive/2024/texmf-dist/tex/latex/ctex/ctex-c5size.clo
 File: ctex-c5size.clo 2022/07/14 v2.5.10 c5size option (CTEX)
-) (/usr/local/texlive/2024/texmf-dist/tex/latex/ctex/fontset/ctex-fontset-mac.def
-File: ctex-fontset-mac.def 2022/07/14 v2.5.10 macOS fonts definition (CTEX)
- (/usr/local/texlive/2024/texmf-dist/tex/latex/ctex/fontset/ctex-fontset-macold.def
-File: ctex-fontset-macold.def 2022/07/14 v2.5.10 macOS fonts definition for Yosemite or earlier version (CTEX)
+) (f:/texlive/2024/texmf-dist/tex/latex/ctex/fontset/ctex-fontset-windows.def
+File: ctex-fontset-windows.def 2022/07/14 v2.5.10 Windows fonts definition (CTEX)
 
-
-Package fontspec Warning: Font "STSong" does not contain requested Script
-(fontspec)                "CJK".
-
-
-Package fontspec Info: Could not resolve font "STKaiti/B" (it probably doesn't
+Package fontspec Info: Could not resolve font "KaiTi/B" (it probably doesn't
 (fontspec)             exist).
 
 
-Package fontspec Info: Could not resolve font "STHeiti/I" (it probably doesn't
+Package fontspec Info: Could not resolve font "SimHei/I" (it probably doesn't
 (fontspec)             exist).
 
 
-Package fontspec Info: Could not resolve font "STSong/BI" (it probably doesn't
+Package fontspec Info: Could not resolve font "SimSun/BI" (it probably doesn't
 (fontspec)             exist).
 
 
-Package fontspec Info: Font family 'STSong(0)' created for font 'STSong' with
+Package fontspec Info: Font family 'SimSun(0)' created for font 'SimSun' with
 (fontspec)             options
-(fontspec)             [Script={CJK},BoldFont={STHeiti},ItalicFont={STKaiti}].
+(fontspec)             [Script={CJK},BoldFont={SimHei},ItalicFont={KaiTi}].
 (fontspec)              
 (fontspec)              This font family consists of the following NFSS
 (fontspec)             series/shapes:
 (fontspec)              
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->"STSong/OT:language=dflt;"
+(fontspec)             <->"SimSun/OT:script=hani;language=dflt;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
 (fontspec)             - 'bold' (b/n) with NFSS spec.:
-(fontspec)             <->"STHeiti/OT:language=dflt;"
+(fontspec)             <->"SimHei/OT:script=hani;language=dflt;"
 (fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
 (fontspec)             - 'italic' (m/it) with NFSS spec.:
-(fontspec)             <->"STKaiti/OT:language=dflt;"
+(fontspec)             <->"KaiTi/OT:script=hani;language=dflt;"
 (fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
 
-))) (/usr/local/texlive/2024/texmf-dist/tex/latex/ctex/config/ctex.cfg
+)) (f:/texlive/2024/texmf-dist/tex/latex/ctex/config/ctex.cfg
 File: ctex.cfg 2022/07/14 v2.5.10 Configuration file (CTEX)
 ) (./train.aux)
 \openout1 = `train.aux'.
@@ -311,10 +304,10 @@ L3 programming layer <2022/07/14>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 6207 strings out of 474773
- 191625 string characters out of 5757723
- 1926839 words of memory out of 5000000
- 28315 multiletter control sequences out of 15000+600000
+ 6209 strings out of 474772
+ 190431 string characters out of 5761267
+ 1926842 words of memory out of 5000000
+ 28321 multiletter control sequences out of 15000+600000
  563539 words of font info for 72 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  93i,11n,97p,354b,303s stack positions out of 10000i,1000n,20000p,200000b,200000s
