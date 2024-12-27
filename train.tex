@@ -1,12 +1,14 @@
 \documentclass{article} %文章模板
 \usepackage{ctex} %导入中文宏包
 \usepackage{setspace} %导入行距宏包
+\usepackage{geometry} %导入纸张信息
+\usepackage{graphicx} %导入添加图片宏包
 %\parindent=0pt %在导言区设置全文缩进的距离
 %\setstretch{1.5} 设置全文行距
 \title{训练} %标题
 \author{刘圻浩 \and LiuQihao\thanks{作者附加信息}} %作者和附加信息
 \date{\today} %日期
-
+%\geometry{a4paper,left=1cm,right=1cm,top=1cm,bottom=1cm} a4纸，上下左右边距为1cm
 
 
 \begin{document}
@@ -55,11 +57,19 @@
 {\songti
 冬天的魅力不仅在于它的寒冷，更在于它带来的人与人之间的靠近。}这个季节，让人们在冰雪之中感受到家的温暖，友情的可贵，以及大自然的纯净与美好。\par
 {\bfseries %加粗
+\newpage %分页
 The pure white snowflakes drift down from the sky, blanketing the earth as if dressing the world in a silvery gown. Children build snowmen and engage in snowball fights in the snow-covered fields, their laughter echoing in the crisp air.}\par
 {\itshape
 In the cold of winter, home becomes the warmest sanctuary. Families gather around the fireplace, sipping steaming tea, chatting, and enjoying moments of warmth and togetherness. Outside, the wind howls bitterly, but inside, it feels as cozy as spring.}\textsf{Winter also brings a host of delightful foods that make mouths water.} Steaming hotpots, fragrant roasted sweet potatoes, and heartwarming glutinous rice balls not only warm the body but also comfort the soul.
 Winter offers many unique joys, as if the chilly air carries a special kind of romance and happiness. Streets are adorned with colorful lights, and at night, the snow-covered ground reflects tiny stars, creating a scene straight out of a fairy tale. People bundle up in thick coats, taking walks in the snow and enjoying the crunching sound beneath their feet, savoring the serenity and beauty unique to winter.
-For those who love sports, winter is a season full of energy. At ski resorts, thrill-seekers race down snow-covered slopes, leaving behind joyful shouts and clear trails. On frozen lakes, skaters glide gracefully, spinning with smiles as they dance with the wind.
+For those who love sports, winter is a season full of energy. At ski resorts, thrill-seekers race down snow-covered slopes, leaving behind joyful shouts and clear trails. On frozen lakes, skaters glide gracefully, spinning with smiles as they dance with the wind.\footnote{乱写的} %脚注
+\begin{figure}[t]
+    \centering
+    \includegraphics[scale=0.3]{/Users/liuqihao/Latex/1982C822-2EF0-4833-A4A7-29CA215D2175_1_105_c.jpeg} %插入图片 
+
+\end{figure}
+
+
 As night falls, the atmosphere at home becomes even cozier. Children gather to share stories, while parents prepare a steaming dinner. A bowl of rich stew and a cup of warm hot cocoa chase away the chill of the winter evening. The flickering firelight casts playful shadows on everyone’s faces, painting a picture of warmth and happiness.
 The charm of winter lies not only in its cold but also in the way it brings people closer. This season allows us to feel the warmth of home, the value of friendship, and the purity and beauty of nature amid the snow and ice.
 \end{document}
